@@ -1,5 +1,5 @@
 # Fine Line
-A Chrome extension that highlights the line you are reading for an easier experience. The line can be moved up and down with the arrow keys.
+A Chrome extension that highlights the line you are reading for better reading experience. The line can be moved up and down with the arrow keys.
 ## Installation
 1. Download the repository as a .zip file under the "Code" dropdown menu.
 2. Extract the .zip file.
